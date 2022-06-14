@@ -27,13 +27,20 @@ At a high-level, the airflow orchestrates the following tasks:
 ## Data sources
 
 ## Dashboard 
+
+https://user-images.githubusercontent.com/91481367/173515514-9e4b0ac3-f24a-4c4a-bd77-de5c1fb574b0.mp4
+
+
 <p align="left">
-    <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/IMPACT%20OF%20COVID%20ON%20AVIATION%20INDUSTRY_VIZ%20(1).pdf">
-</p>
-<p align="left">
+    <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/screencapture-prod-apnortheast-a-online-tableau-2022-06-11-21_41_17.png">
+    <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/screencapture-prod-apnortheast-a-online-tableau-2022-06-11-21_39_59.png">
+    <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/screencapture-prod-apnortheast-a-online-tableau-2022-06-11-21_49_06.png">
+    <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/screencapture-prod-apnortheast-a-online-tableau-2022-06-11-21_43_00.png">
     
-    [embed][http://example.com/file.pdf](https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/FINAL%20GIF%20(1).mp4)[/embed]
+    
+    
 </p>
+
 
 
 ## Setup
