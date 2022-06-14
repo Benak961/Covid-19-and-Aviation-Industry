@@ -31,7 +31,8 @@ At a high-level, the airflow orchestrates the following tasks:
     <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/IMPACT%20OF%20COVID%20ON%20AVIATION%20INDUSTRY_VIZ%20(1).pdf">
 </p>
 <p align="left">
-    <img src="https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/FINAL%20GIF%20(1).mp4">
+    
+    [embed][http://example.com/file.pdf](https://github.com/Benak961/Covid-19-and-Aviation-Industry/blob/main/assets/images/FINAL%20GIF%20(1).mp4)[/embed]
 </p>
 
 
